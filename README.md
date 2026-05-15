@@ -75,3 +75,38 @@ pharmacists
                     ├── shopName
                     ├── address
                     └── distance
+
+# 🔐 Test Login Credentials
+
+Use the following pharmacist accounts to test the application:
+
+| Pharmacy Name     |       Email               |     Password     |
+|---------------    |---------------------------|------------------|
+| Cauvery Medicals  | cauvery@gmail.com         | 623462346234     |
+| LifeCare Pharmacy | lifecare@gmail.com        | 103410341034     |
+| Janata Drugs      | janata@gmail.com          | 323432343234     |
+| MedPlus           | medplus@gmail.com         | 923492349234     |
+| Sai Health Pharma | saihealth@gmail.com       | 723472347234     |
+| Suraksha Medicals | suraksha@gmail.com        | 823482348234     |
+| Vinayaka Pharmacy | vinayaka@gmail.com        | 223422342234     |
+| Apollo Pharmacy   | apollopharmacy@gmail.com  | 523452345234     |
+| Sri Ram Medical   | srirammedical@gmail.com   | 123412341234     |
+| Lakshmi Medicals  | lakshmimedical@gmail.com  | 123123123123     |
+
+**Note : Only registered pharmacists with valid login credentials are allowed to access the pharmacist dashboard and add medicines to the inventory. This helps prevent unauthorized or fake users from modifying medicine availability data in the system. **
+
+---
+
+# 🧪 Demo Medicine Search Examples
+
+Search these medicine names in the app:
+
+- Dolo 650
+- Paracetamol
+- Crocin
+- ORS Powder
+- Insulin
+- Oxygen Cylinder
+- Snake Venom Antidote
+
+Emergency medicines are displayed with a red emergency badge.
